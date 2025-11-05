@@ -6,10 +6,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gedeon%20Agmas&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋+Hello!+I'm+Gedeon+Agmas!+🤖;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=3000&lines=👋+Hello!+I'm+Gedeon+Agmas+💻+Senior+Full+Stack+Developer;👋+Hello!+I'm+Gedeon+Agmas+☁️+DevOps+Engineer;👋+Hello!+I'm+Gedeon+Agmas+📊+Project+Manager;" />
 </h1>
-
-<h3 align="center">💻 Senior Full Stack Developer | ☁️ DevOps Engineer | 📊 Project Manager</h3>
 
 <!-- Social Links -->
 <div align="center">
@@ -43,10 +41,10 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gedeonagmas&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=FFFFFF&count_private=true&include_all_commits=true&line_height=27)
   
 <!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=gedeonagmas&theme=radical&hide_border=true&background=0D1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&dates=FF6B35)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gedeonagmas&theme=radical&hide_border=true&background=0D1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&dates=FF6B35)](https://git.io/streak-stats)
 
 <!-- Contribution Graph -->
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gedeonagmas&theme=radical&hide_border=true&bg_color=0D1117&color=FF6B35&line=FF6B35&point=FFFFFF&area=true&area_color=FF6B35&title_color=FF6B35)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gedeonagmas&theme=radical&hide_border=true&bg_color=0D1117&color=FF6B35&line=FF6B35&point=FFFFFF&area=true&area_color=FF6B35&title_color=FF6B35&custom_title=Gedeon+Agmas+GitHub+Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gedeonagmas&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF&langs_count=10)
@@ -55,7 +53,7 @@
 <div align="center">
   
 ### 🎯 Contribution Highlights
-![GitHub Contribution Stats](https://github-contributor-stats.vercel.app/api?username=gedeonagmas&limit=5&theme=radical&combine_all_yearly_contributions=true)
+[![GitHub Contribution Stats](https://github-contributor-stats.vercel.app/api?username=gedeonagmas&limit=15&theme=radical&combine_all_yearly_contributions=true&show_icons=true)](https://github.com/ryo-ma/github-profile-trophy)
   
 **🔥 1,154 Contributions in the Last Year! 🎉**
 
@@ -204,74 +202,121 @@ As a **Senior Full Stack Developer at Skylight Technologies**, I lead developmen
 
 ## 💻 Professional Experience
 
-### Senior Full Stack Developer, DevOps & Project Manager
-**Skylight Technologies** | Addis Ababa, Ethiopia | 2023 - Present
-- Leading fullstack and DevOps projects while managing teams and project delivery
-- Delivering end-to-end scalable solutions and cloud infrastructure
-- **Technologies:** MERN Stack, Next.js, TailwindCSS, MongoDB, AWS, Google Cloud, Terraform, CI/CD, cPanel
-- **Achievements:**
-  - Successfully led 10+ enterprise projects
-  - Built automated infrastructure provisioning with Terraform
-  - Managing a team of developers as Project Manager
+<div align="center">
 
-### Senior Full Stack Developer
-**Private Client** | Remote (International) | 2023
-- Provided full-stack development services to a private client
-- Building scalable web applications and implementing modern development practices
-- **Technologies:** React, Vue.js, Node.js, GraphQL, AWS
-- **Achievements:**
-  - Delivered 3+ enterprise-level applications
-  - Improved application performance by 40%
-  - Implemented modern development workflows
+### 🚀 **My Professional Journey**
 
-### Full Stack Developer
-**TechFlow Solutions** | Remote (India) | 2022 - 2023
-- Worked remotely with an India-based tech company developing e-commerce platforms and SaaS applications
-- **Technologies:** React, Next.js, Node.js, MongoDB, AWS, Docker, TypeScript, TailwindCSS
-- **Achievements:**
-  - Built 3+ scalable e-commerce platforms
-  - Improved application performance by 45%
-  - Led remote development team of 5 developers
+</div>
 
-### Full Stack Developer & DevOps Engineer
-**EMG Consultancy PLC** | Addis Ababa, Ethiopia | 2022
-- Handled fullstack development and DevOps responsibilities, including AWS migrations and CI/CD pipelines
-- **Technologies:** Laravel, AWS, PostgreSQL, CI/CD, Vue.js
-- **Achievements:**
-  - Migrated legacy systems to AWS
-  - Improved CI/CD workflows reducing deployment time by 70%
+<table align="center">
+<tr>
+<td width="100%" valign="top">
 
-### Full Stack Developer
-**Keradion Technologies** | Addis Ababa, Ethiopia | 2021 - 2022
-- Developed modern applications using Next.js, TailwindCSS, and Laravel
-- **Technologies:** Next.js, TailwindCSS, Laravel, MySQL, REST API
-- **Achievements:**
-  - Delivered 5+ production-level fullstack projects
-  - Improved SEO and performance by 30%
+### 💼 **Senior Full Stack Developer, DevOps & Project Manager**
+**🏢 Skylight Technologies** | 📍 Addis Ababa, Ethiopia  
+⏰ **2023 - Present**
 
-### DevOps Engineer
-**Zergaw Cloud** | Addis Ababa, Ethiopia | 2020
-- Managed cloud deployments, CI/CD pipelines, and server management
-- **Technologies:** AWS, Google Cloud, cPanel, CI/CD, Docker, Terraform
-- **Achievements:**
-  - Automated deployments reducing downtime by 50%
-  - Managed 20+ cloud instances
+- 🎯 Leading fullstack and DevOps projects while managing teams and project delivery
+- ☁️ Delivering end-to-end scalable solutions and cloud infrastructure
+- 🚀 Successfully led **10+ enterprise projects**
+- **🛠️ Tech Stack:** MERN Stack, Next.js, TailwindCSS, MongoDB, AWS, Google Cloud, Terraform, CI/CD
 
-### Backend Developer
-**Atlantic IT Solutions** | Addis Ababa, Ethiopia | 2019 - 2020
-- Built scalable APIs and server-side logic using Node.js and Express
-- **Technologies:** Node.js, Express.js, PostgreSQL, Redis, REST API
-- **Achievements:**
-  - Implemented secure authentication system
-  - Reduced API response time by 40%
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
 
-### Frontend Developer
-**Zala Tech** | Addis Ababa, Ethiopia | 2018 - 2019
-- Started career as a frontend developer building responsive web applications
-- **Technologies:** React, Bootstrap, JavaScript, CSS3, HTML5
-- **Achievements:**
-  - Developed 10+ client-facing web applications
-  - Improved UI/UX quality and responsiveness
+### 💼 **Senior Full Stack Developer**
+**🏢 Private Client** | 📍 Remote (International)  
+⏰ **2023**
+
+- 💻 Provided full-stack development services to a private client
+- 🚀 Building scalable web applications and implementing modern development practices
+- ✨ Delivered **3+ enterprise-level applications** with 40% performance improvement
+- **🛠️ Tech Stack:** React, Vue.js, Node.js, GraphQL, AWS
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+### 💼 **Full Stack Developer**
+**🏢 TechFlow Solutions** | 📍 Remote (India)  
+⏰ **2022 - 2023**
+
+- 🛒 Worked remotely developing e-commerce platforms and SaaS applications
+- 👥 Led remote development team of **5 developers**
+- 📈 Improved application performance by **45%**
+- **🛠️ Tech Stack:** React, Next.js, Node.js, MongoDB, AWS, Docker, TypeScript, TailwindCSS
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+### 💼 **Full Stack Developer & DevOps Engineer**
+**🏢 EMG Consultancy PLC** | 📍 Addis Ababa, Ethiopia  
+⏰ **2022**
+
+- ☁️ Handled fullstack development and DevOps responsibilities including AWS migrations
+- ⚡ Improved CI/CD workflows reducing deployment time by **70%**
+- **🛠️ Tech Stack:** Laravel, AWS, PostgreSQL, CI/CD, Vue.js
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+### 💼 **Full Stack Developer**
+**🏢 Keradion Technologies** | 📍 Addis Ababa, Ethiopia  
+⏰ **2021 - 2022**
+
+- 🚀 Developed modern applications using Next.js, TailwindCSS, and Laravel
+- 📊 Delivered **5+ production-level fullstack projects** with 30% SEO improvement
+- **🛠️ Tech Stack:** Next.js, TailwindCSS, Laravel, MySQL, REST API
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+### 💼 **DevOps Engineer**
+**🏢 Zergaw Cloud** | 📍 Addis Ababa, Ethiopia  
+⏰ **2020**
+
+- ☁️ Managed cloud deployments, CI/CD pipelines, and server management
+- ⚡ Automated deployments reducing downtime by **50%**, managed **20+ cloud instances**
+- **🛠️ Tech Stack:** AWS, Google Cloud, cPanel, CI/CD, Docker, Terraform
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+### 💼 **Backend Developer**
+**🏢 Atlantic IT Solutions** | 📍 Addis Ababa, Ethiopia  
+⏰ **2019 - 2020**
+
+- 🔧 Built scalable APIs and server-side logic using Node.js and Express
+- 🔐 Implemented secure authentication system, reduced API response time by **40%**
+- **🛠️ Tech Stack:** Node.js, Express.js, PostgreSQL, Redis, REST API
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+### 💼 **Frontend Developer**
+**🏢 Zala Tech** | 📍 Addis Ababa, Ethiopia  
+⏰ **2018 - 2019**
+
+- 🎨 Started career as a frontend developer building responsive web applications
+- ✨ Developed **10+ client-facing web applications** with improved UI/UX quality
+- **🛠️ Tech Stack:** React, Bootstrap, JavaScript, CSS3, HTML5
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -435,30 +480,6 @@ As a **Senior Full Stack Developer at Skylight Technologies**, I lead developmen
 📍 **Addis Ababa, Ethiopia** 🇪🇹
 
 </div>
-
----
-
-## 🛠️ This Portfolio Website
-
-This portfolio website is built with modern web technologies:
-
-- ⚛️ **React** - UI library
-- ⚡ **Vite** - Build tool and dev server
-- 📘 **TypeScript** - Type-safe JavaScript
-- 🎨 **Tailwind CSS** - Utility-first CSS framework
-- 🎭 **shadcn-ui** - UI component library
-- 🎯 **React Router** - Client-side routing
-- 📊 **Framer Motion** - Animation library
-- 🎨 **Lucide Icons** - Beautiful icon library
-
-### Features
-- ✨ Fully responsive design
-- 🌓 Dark/Light mode support
-- 🎨 Modern UI with smooth animations
-- 📱 Mobile-first approach
-- ⚡ Fast loading times
-- 🔍 SEO optimized
-- ♿ Accessible design
 
 ---
 
