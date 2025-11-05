@@ -328,87 +328,93 @@ As a **Senior Full Stack Developer at Skylight Technologies**, I lead developmen
 
 </div>
 
-<table align="center">
+<br>
+
+<div align="center">
+
+<table>
 <tr>
-<td width="100%" valign="top">
+<td width="100%" align="center">
 
 ### 🎓 **Education**
 
-<div align="center">
+<table>
+<tr>
+<td align="center" width="100%">
 
-**🎓 BSc. in Software Engineering**  
-🏛️ **Bahir Dar University** | 📍 Bahir Dar, Ethiopia  
+![Education](https://img.shields.io/badge/🎓_BSc._Software_Engineering-FF6B35?style=for-the-badge&logo=graduation-cap&logoColor=white)
+
+**🏛️ Bahir Dar University**  
+📍 **Bahir Dar, Ethiopia**  
 📅 **2018 - 2022**
 
-✨ **Key Highlights:**
+<br>
+
+**✨ Key Achievements:**
 - 🎯 Graduated with a degree in Software Engineering
-- 💻 Experienced in Full Stack web development: frontend and backend
-- 🏗️ Core Focus: Software Architecture & Design, Web App Engineering, Databases & Cloud Foundations
-- 🚀 Capstone Full‑stack project delivery, Mentored junior peers, Top performance in web technologies
+- 💻 Full Stack web development expertise
+- 🏗️ Software Architecture & Design, Web App Engineering
+- 🚀 Capstone Full‑stack project delivery
+- 👨‍🏫 Mentored junior peers
+- ⭐ Top performance in web technologies
 
-</div>
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+<br>
 
-### 🏆 **Certifications**
+### 🏆 **Professional Certifications**
 
-</div>
-
-<table align="center">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="33.33%" align="center" valign="top">
 
-<div align="center">
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-**📜 Front-End Web Development with React Specialization**
+**Front-End Web Development with React Specialization**
 
 🏛️ **The Hong Kong University of Science and Technology**  
 📚 **Coursera**  
 📅 **2021 - 2022**
 
-[![Verify Certificate](https://img.shields.io/badge/🔗_Verify_Certificate-4285F4?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/verify/BNZBZ36KBSHD)
-
-</div>
+[![Verify](https://img.shields.io/badge/🔗_Verify_Certificate-4285F4?style=flat-square&logo=coursera&logoColor=white)](https://coursera.org/verify/BNZBZ36KBSHD)
 
 </td>
-<td width="50%" valign="top">
+<td width="33.33%" align="center" valign="top">
 
-<div align="center">
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-**📜 Server-side Development with NodeJS, Express and MongoDB**
+**Server-side Development with NodeJS, Express and MongoDB**
 
 🏛️ **The Hong Kong University of Science and Technology**  
 📚 **Coursera**  
 📅 **2021 - 2022**
 
-[![Verify Certificate](https://img.shields.io/badge/🔗_Verify_Certificate-4285F4?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/verify/FVC5MEVPFC4D)
-
-</div>
+[![Verify](https://img.shields.io/badge/🔗_Verify_Certificate-4285F4?style=flat-square&logo=coursera&logoColor=white)](https://coursera.org/verify/FVC5MEVPFC4D)
 
 </td>
-</tr>
-<tr>
-<td width="100%" valign="top" align="center">
+<td width="33.33%" align="center" valign="top">
 
-<div align="center">
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-**📜 Mobile App Development With React Native**
+**Mobile App Development With React Native**
 
 🏛️ **The Hong Kong University of Science and Technology**  
 📚 **Coursera**  
 📅 **2021 - 2022**
 
-[![Verify Certificate](https://img.shields.io/badge/🔗_Verify_Certificate-4285F4?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/verify/9NJVREWBTMXA)
-
-</div>
+[![Verify](https://img.shields.io/badge/🔗_Verify_Certificate-4285F4?style=flat-square&logo=coursera&logoColor=white)](https://coursera.org/verify/9NJVREWBTMXA)
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -607,8 +613,6 @@ As a **Senior Full Stack Developer at Skylight Technologies**, I lead developmen
 ---
 
 <div align="center">
-  
-**Made with ❤️ and ☕ by Gedeon Agmas**
 
 ![Visitor Count](https://profile-counter.glitch.me/gedeonagmas/count.svg)
 
