@@ -38,7 +38,7 @@
 <div align="center">
   
 <!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gedeonagmas&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=FFFFFF&count_private=true&include_all_commits=true&line_height=27)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gedeonagmas&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=FFFFFF&count_private=true&include_all_commits=true&line_height=27) -->
   
 <!-- GitHub Streak -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gedeonagmas&theme=radical&hide_border=true&background=0D1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&dates=FF6B35)](https://git.io/streak-stats)
