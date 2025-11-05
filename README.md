@@ -6,7 +6,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gedeon%20Agmas&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=3000&lines=👋+Hello!+I'm+Gedeon+Agmas+💻+Senior+Full+Stack+Developer;👋+Hello!+I'm+Gedeon+Agmas+☁️+DevOps+Engineer;👋+Hello!+I'm+Gedeon+Agmas+📊+Project+Manager;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=3000&lines=👋+Hello!+I'm+Gedeon+Agmas!;💻+Senior+Full+Stack+Developer;☁️+DevOps+Engineer;📊+Project+Manager;" />
 </h1>
 
 <!-- Social Links -->
@@ -53,7 +53,7 @@
 <div align="center">
   
 ### 🎯 Contribution Highlights
-[![GitHub Contribution Stats](https://github-contributor-stats.vercel.app/api?username=gedeonagmas&limit=15&theme=radical&combine_all_yearly_contributions=true&show_icons=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Contribution Stats](https://github-contributor-stats.vercel.app/api?username=gedeonagmas&limit=5&theme=radical&combine_all_yearly_contributions=true&show_icons=true)](https://github.com/ryo-ma/github-profile-trophy)
   
 **🔥 1,154 Contributions in the Last Year! 🎉**
 
@@ -322,31 +322,93 @@ As a **Senior Full Stack Developer at Skylight Technologies**, I lead developmen
 
 ## 🎓 Education & Certifications
 
-### Education
-**BSc. in Software Engineering**  
-🏛️ **Bahir Dar University** | Bahir Dar, Ethiopia | 2018-2022
+<div align="center">
 
-- Graduated with a degree in Software Engineering
-- Experienced in Full Stack web development: frontend and backend
-- Core Focus: Software Architecture & Design, Web App Engineering, Databases & Cloud Foundations
-- Highlights: Capstone Full‑stack project delivery, Mentored junior peers, Top performance in web technologies
+### 📚 **Academic Background & Professional Certifications**
 
-### Certifications
+</div>
 
-1. **Front-End Web Development with React Specialization**
-   - 🏛️ The Hong Kong University of Science and Technology — Coursera
-   - 📅 2021-2022
-   - 🔗 [Verify Certificate](https://coursera.org/verify/BNZBZ36KBSHD)
+<table align="center">
+<tr>
+<td width="100%" valign="top">
 
-2. **Server-side Development with NodeJS, Express and MongoDB**
-   - 🏛️ The Hong Kong University of Science and Technology — Coursera
-   - 📅 2021-2022
-   - 🔗 [Verify Certificate](https://coursera.org/verify/FVC5MEVPFC4D)
+### 🎓 **Education**
 
-3. **Mobile App Development With React Native**
-   - 🏛️ The Hong Kong University of Science and Technology — Coursera
-   - 📅 2021-2022
-   - 🔗 [Verify Certificate](https://coursera.org/verify/9NJVREWBTMXA)
+<div align="center">
+
+**🎓 BSc. in Software Engineering**  
+🏛️ **Bahir Dar University** | 📍 Bahir Dar, Ethiopia  
+📅 **2018 - 2022**
+
+✨ **Key Highlights:**
+- 🎯 Graduated with a degree in Software Engineering
+- 💻 Experienced in Full Stack web development: frontend and backend
+- 🏗️ Core Focus: Software Architecture & Design, Web App Engineering, Databases & Cloud Foundations
+- 🚀 Capstone Full‑stack project delivery, Mentored junior peers, Top performance in web technologies
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🏆 **Certifications**
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+**📜 Front-End Web Development with React Specialization**
+
+🏛️ **The Hong Kong University of Science and Technology**  
+📚 **Coursera**  
+📅 **2021 - 2022**
+
+[![Verify Certificate](https://img.shields.io/badge/🔗_Verify_Certificate-4285F4?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/verify/BNZBZ36KBSHD)
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+**📜 Server-side Development with NodeJS, Express and MongoDB**
+
+🏛️ **The Hong Kong University of Science and Technology**  
+📚 **Coursera**  
+📅 **2021 - 2022**
+
+[![Verify Certificate](https://img.shields.io/badge/🔗_Verify_Certificate-4285F4?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/verify/FVC5MEVPFC4D)
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top" align="center">
+
+<div align="center">
+
+**📜 Mobile App Development With React Native**
+
+🏛️ **The Hong Kong University of Science and Technology**  
+📚 **Coursera**  
+📅 **2021 - 2022**
+
+[![Verify Certificate](https://img.shields.io/badge/🔗_Verify_Certificate-4285F4?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/verify/9NJVREWBTMXA)
+
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -402,21 +464,70 @@ As a **Senior Full Stack Developer at Skylight Technologies**, I lead developmen
 
 ## 💬 Client Testimonials
 
+<div align="center">
+
+### ⭐ **What Clients Say About My Work** ⭐
+
+</div>
+
+<table align="center">
+<tr>
+<td width="100%" valign="top">
+
+<div align="center">
+
+💼 **Tewodros Kebede**  
+**Founder & CEO at Skylight Technologies**
+
 > "Gedeon has been a game-changer for our company. He leads our development team with confidence and always keeps us on track. What I appreciate most is his reliability - he delivers quality work on time, every time. He's become an essential part of our success."
-> 
-> **— Tewodros Kebede**, Founder & CEO at Skylight Technologies
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+<div align="center">
+
+💼 **Diwakar Kaushik**  
+**CEO at Shuru**
 
 > "Working with Gedeon transformed our business completely. He took our ideas and turned them into a platform that actually works - smoothly handles thousands of users daily without any hiccups. His communication is clear, he understands our business needs, and the results speak for themselves. Highly recommended!"
-> 
-> **— Diwakar Kaushik**, CEO at Shuru
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+<div align="center">
+
+💼 **Marie Celine Chelard**  
+**HR Manager at MINT**
 
 > "From an HR perspective, Gedeon is exactly the kind of professional we love working with. He's punctual, communicates well, and always maintains a positive attitude. He helped our company save significantly on technical costs while making everything run smoother. A pleasure to work with!"
-> 
-> **— Marie Celine Chelard**, HR Manager at MINT
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+<div align="center">
+
+💼 **Ujjwal Roy**  
+**Technical Lead at Hiring-Algorithm-in-Human-Form**
 
 > "Gedeon built our appointment system and it's been fantastic. The interface is intuitive, everything works fast, and our users love it. What stands out is how well he understands what we actually need and delivers solutions that work in the real world. Excellent developer and problem solver."
-> 
-> **— Ujjwal Roy**, Technical Lead at Hiring-Algorithm-in-Human-Form
+
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
