@@ -71,7 +71,7 @@
 
 </div>
 
-With **over 7 years of experience** in software development, I specialize in building scalable, high-performance web applications that solve real-world problems. My journey has taken me across international teams and diverse projects, from startups to enterprise solutions.
+With **over 5 years of experience** in software development, I specialize in building scalable, high-performance web applications that solve real-world problems. My journey has taken me across international teams and diverse projects, from startups to enterprise solutions.
 
 As a **Senior Full Stack Developer at Skylight Technologies**, I lead development teams and manage complex projects while maintaining hands-on involvement in coding, architecture, and DevOps practices.
 
@@ -83,7 +83,7 @@ As a **Senior Full Stack Developer at Skylight Technologies**, I lead developmen
   
 | 🏆 Achievement | 📊 Value |
 |:---:|:---:|
-| ⏱️ **Years of Experience** | **7+** |
+| ⏱️ **Years of Experience** | **5+** |
 | 🚀 **Projects Delivered** | **72+** |
 | 💻 **Technologies Mastered** | **20+** |
 | 🌟 **Client Satisfaction** | **100%** |
